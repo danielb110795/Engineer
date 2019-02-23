@@ -1,0 +1,17 @@
+Graf skierowany: false
+Graf nieskierowany: true
+Liczba wierzcho³ków: 2
+Liczba krawêdzi: 1
+Macierz s¹siedztwa: 
+0,1,
+1,0;
+Macierz incydencji: 
+1,
+1;
+Lista s¹siedztwa: 
+1.
+0;
+Wartoœci wierzcho³ków: 
+null
+Krawêdzie: 
+0,1;

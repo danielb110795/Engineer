@@ -1,0 +1,20 @@
+Graf skierowany: false
+Graf nieskierowany: true
+Liczba wierzcho³ków: 3
+Liczba krawêdzi: 3
+Macierz s¹siedztwa: 
+0,1,1,
+1,0,1,
+1,1,0;
+Macierz incydencji: 
+1,1,0,
+1,0,1,
+0,1,1;
+Lista s¹siedztwa: 
+1,2.
+0,2.
+0,1;
+Wartoœci wierzcho³ków: 
+null
+Krawêdzie: 
+0,1,0,2,2,1;
